@@ -1,4 +1,4 @@
-### Hello there, my names is Denis🐱‍👤. 
+### Hello there, my name is Denis, I'm a game developer, welcome to my profile. 🐱‍🚀🐱‍🏍👾
 
 
 ## Portfolio
