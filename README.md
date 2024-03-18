@@ -12,5 +12,5 @@
 
 ### Technology
 <a href="https://unity.com/" target="_blank"><img src="https://user-images.githubusercontent.com/42248514/176506180-e2e3b8c7-6cea-42a4-b79f-08cc1e6460c6.png"  width="70" height="70"></a>
-<a href="https://godotengine.org/" target="_blank"><img src="https://github.com/DenisYurkov/DenisYurkov/blob/main/logo_large_color_light.webp"  width="70" height="70"></a>
+<a href="https://godotengine.org/" target="_blank"><img src="https://github.com/DenisYurkov/DenisYurkov/blob/main/logo_large_color_light.webp"  width="280" height="70"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://user-images.githubusercontent.com/42248514/176507465-798a8884-875a-4203-a63c-cc3e94a0b9cb.png"  width="70" height="70"></a>
